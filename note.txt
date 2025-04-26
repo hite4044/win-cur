@@ -1,0 +1,3 @@
+鼠标主题存储路径
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Control Panel\Cursors\Schemes
+HKEY_USERS\S-1-5-21-2911377511-1655879185-3797758609-1001\Control Panel\Cursors\Schemes
